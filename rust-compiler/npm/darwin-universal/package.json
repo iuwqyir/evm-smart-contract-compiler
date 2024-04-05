@@ -1,0 +1,15 @@
+{
+  "name": "rust-compiler-darwin-universal",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "main": "rust-compiler.darwin-universal.node",
+  "files": [
+    "rust-compiler.darwin-universal.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
